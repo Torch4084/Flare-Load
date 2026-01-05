@@ -1,3 +1,4 @@
+Unsupported, please don't try this.
 A basic tool made to help in Web CTF by generating XSS payloads
 
 After downloading the release use `g++ -std=c++17 -Wall -Wextra -pthread flare-load.cpp -o flare-load` to compile the file
