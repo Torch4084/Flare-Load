@@ -1,4 +1,4 @@
-Unsupported, please speed don't try this.
+Unsupported, please don't try this.
 
 
 A basic tool made to help in Web CTF by generating XSS payloads
